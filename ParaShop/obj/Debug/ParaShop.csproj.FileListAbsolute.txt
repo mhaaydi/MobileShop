@@ -1,0 +1,177 @@
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\ParaShop.dll.config
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\ParaShop.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\ParaShop.pdb
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\csc.exe
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\csc.exe.config
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\csc.rsp
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\csi.exe
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\csi.exe.config
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\csi.rsp
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.AppContext.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Collections.Immutable.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Console.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.IO.Compression.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.IO.FileSystem.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.IO.Pipes.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.AccessControl.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Claims.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Threading.Thread.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.ValueTuple.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Xml.XPath.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\vbc.exe
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\vbc.exe.config
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\vbc.rsp
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\VBCSCompiler.exe
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\roslyn\VBCSCompiler.exe.config
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\obj\Debug\ParaShop.csproj.CoreCompileInputs.cache
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\obj\Debug\ParaShop.csproj.CopyComplete
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\obj\Debug\ParaShop.dll
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\obj\Debug\ParaShop.pdb
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\bin\MySql.Data.xml
+D:\SIlyass\Documents\Projects\Web Apps\ASP.NET\ParaShop3\ParaShop\ParaShop\obj\Debug\ParaShop.csprojAssemblyReference.cache
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\ParaShop.dll.config
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\ParaShop.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\ParaShop.pdb
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\csc.exe
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\csc.exe.config
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\csc.rsp
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\csi.exe
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\csi.exe.config
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\csi.rsp
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.AppContext.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Collections.Immutable.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Console.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Diagnostics.Process.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.IO.Compression.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.IO.FileSystem.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.IO.Pipes.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Reflection.Metadata.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.AccessControl.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Claims.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Principal.Windows.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Threading.Thread.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.ValueTuple.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Xml.XPath.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\vbc.exe
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\vbc.exe.config
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\vbc.rsp
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\VBCSCompiler.exe
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\VBCSCompiler.exe.config
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\bin\MySql.Data.xml
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\obj\Debug\ParaShop.csprojAssemblyReference.cache
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\obj\Debug\ParaShop.csproj.CoreCompileInputs.cache
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\obj\Debug\ParaShop.csproj.CopyComplete
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\obj\Debug\ParaShop.dll
+F:\ParaShop\ParaShop3\ParaShop\ParaShop\obj\Debug\ParaShop.pdb
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\ParaShop.dll.config
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\ParaShop.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\ParaShop.pdb
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\csc.exe
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\csc.exe.config
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\csc.rsp
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\csi.exe
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\csi.exe.config
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\csi.rsp
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.AppContext.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Collections.Immutable.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Console.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.IO.Compression.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.IO.FileSystem.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.IO.Pipes.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.AccessControl.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Claims.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Threading.Thread.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.ValueTuple.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Xml.XPath.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\vbc.exe
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\vbc.exe.config
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\vbc.rsp
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\VBCSCompiler.exe
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\roslyn\VBCSCompiler.exe.config
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\bin\MySql.Data.xml
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\obj\Debug\ParaShop.csproj.AssemblyReference.cache
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\obj\Debug\ParaShop.csproj.CoreCompileInputs.cache
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\obj\Debug\ParaShop.csproj.CopyComplete
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\obj\Debug\ParaShop.dll
+D:\ESISA\Licence\ParaShop\ParaShop3\ParaShop\ParaShop\obj\Debug\ParaShop.pdb

@@ -1,0 +1,369 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.2.4.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.2.4.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DE6AC6D7-719F-4F79-9FF1-2F0BB9F13371}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ParaShop</RootNamespace>
+    <AssemblyName>ParaShop</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.8.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MySql.Data, Version=6.10.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\MySQL\MySQL Connector Net 6.10.6\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\account2.png" />
+    <Content Include="Images\account3.png" />
+    <Content Include="Images\contact2.png" />
+    <Content Include="Images\logout.png" />
+    <Content Include="Images\logout2.png" />
+    <Content Include="MasterPage.Master" />
+    <Content Include="Bootstrap\css\bootstrap-grid.css.map" />
+    <Content Include="Bootstrap\css\bootstrap-grid.min.css.map" />
+    <Content Include="Bootstrap\css\bootstrap-reboot.css.map" />
+    <Content Include="Bootstrap\css\bootstrap-reboot.min.css.map" />
+    <Content Include="Bootstrap\css\bootstrap.css.map" />
+    <Content Include="Bootstrap\css\bootstrap.min.css.map" />
+    <Content Include="Bootstrap\js\bootstrap.bundle.js.map" />
+    <Content Include="Bootstrap\js\bootstrap.bundle.min.js.map" />
+    <Content Include="Bootstrap\js\bootstrap.js.map" />
+    <Content Include="Bootstrap\js\bootstrap.min.js.map" />
+    <Content Include="MasterPageAdmin.Master" />
+    <Content Include="NouveauUtilisateur.aspx" />
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Bootstrap\css\bootstrap-grid.css" />
+    <Content Include="Bootstrap\css\bootstrap-grid.min.css" />
+    <Content Include="Bootstrap\css\bootstrap-reboot.css" />
+    <Content Include="Bootstrap\css\bootstrap-reboot.min.css" />
+    <Content Include="Bootstrap\css\bootstrap.css" />
+    <Content Include="Bootstrap\css\bootstrap.min.css" />
+    <Content Include="Bootstrap\js\bootstrap.bundle.js" />
+    <Content Include="Bootstrap\js\bootstrap.bundle.min.js" />
+    <Content Include="Bootstrap\js\bootstrap.js" />
+    <Content Include="Bootstrap\js\bootstrap.min.js" />
+    <Content Include="css\StyleSheet1.css" />
+    <Content Include="Global.asax" />
+    <Content Include="Images\account.png" />
+    <Content Include="Images\contact.png" />
+    <Content Include="Images\facebook.png" />
+    <Content Include="Images\google.png" />
+    <Content Include="SlideShow\img1.jpg" />
+    <Content Include="SlideShow\img2.jpg" />
+    <Content Include="SlideShow\img3.jpg" />
+    <Content Include="Images\instagram.png" />
+    <Content Include="Images\panier.png" />
+    <Content Include="Images\parashop.png" />
+    <Content Include="Images\parashop2.png" />
+    <Content Include="Images\search.png" />
+    <Content Include="Images\twitter.png" />
+    <Content Include="Products\ambregarnier.png" />
+    <Content Include="Products\argondoucenature.jpg" />
+    <Content Include="Products\auramirabls.jpg" />
+    <Content Include="Products\avril.JPG" />
+    <Content Include="Products\bioderma.jpg" />
+    <Content Include="Products\bisolvon.jpg" />
+    <Content Include="Products\cadum.jpg" />
+    <Content Include="Products\colgate.jpg" />
+    <Content Include="Products\corp1.png" />
+    <Content Include="Products\corp2.jpg" />
+    <Content Include="Products\corps2.jpg" />
+    <Content Include="Products\crest.JPG" />
+    <Content Include="Products\dop.JPG" />
+    <Content Include="Products\enamelon.jpg" />
+    <Content Include="Products\floressance.jpg" />
+    <Content Include="Products\francode.jpg" />
+    <Content Include="Products\garnier2.jpg" />
+    <Content Include="Products\garniernostreaks.jpg" />
+    <Content Include="Products\gynuherb.png" />
+    <Content Include="Products\huileenfant.png" />
+    <Content Include="Products\mixa.jpg" />
+    <Content Include="Products\naolya.jpg" />
+    <Content Include="Products\naturelmedicinecentre.jpg" />
+    <Content Include="Products\nerola.png" />
+    <Content Include="Products\pampers.jpg" />
+    <Content Include="Products\propolis.jpg" />
+    <Content Include="Products\pureessential.jpg" />
+    <Content Include="Products\reference.jpg" />
+    <Content Include="Products\sanytol.png" />
+    <Content Include="Products\siropvegetal.jpg" />
+    <Content Include="Products\veterinaire1.jpg" />
+    <Content Include="Products\vitaminepourchien.jpg" />
+    <Content Include="SlideShowJs\SlideShow.js" />
+    <Content Include="Web.config" />
+    <Content Include="Index.aspx" />
+    <Content Include="Search.aspx" />
+    <Content Include="Contact.aspx" />
+    <Content Include="Account.aspx" />
+    <Content Include="Visage.aspx" />
+    <Content Include="Corps.aspx" />
+    <Content Include="Cheveux.aspx" />
+    <Content Include="Dentaire.aspx" />
+    <Content Include="Solaires.aspx" />
+    <Content Include="Bébé.aspx" />
+    <Content Include="Vétérinaire.aspx" />
+    <Content Include="Naturel.aspx" />
+    <Content Include="Panier.aspx" />
+    <Content Include="Produits.aspx" />
+    <Content Include="Utilisateur.aspx" />
+    <Content Include="Commandes.aspx" />
+    <Content Include="NouveauProduit.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPage.Master.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPage.Master.designer.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPageAdmin.Master.cs">
+      <DependentUpon>MasterPageAdmin.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPageAdmin.Master.designer.cs">
+      <DependentUpon>MasterPageAdmin.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Commande.cs" />
+    <Compile Include="Models\Panier.cs" />
+    <Compile Include="Models\Product.cs" />
+    <Compile Include="Models\User.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Search.aspx.cs">
+      <DependentUpon>Search.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Search.aspx.designer.cs">
+      <DependentUpon>Search.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contact.aspx.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contact.aspx.designer.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account.aspx.cs">
+      <DependentUpon>Account.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account.aspx.designer.cs">
+      <DependentUpon>Account.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Visage.aspx.cs">
+      <DependentUpon>Visage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Visage.aspx.designer.cs">
+      <DependentUpon>Visage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Corps.aspx.cs">
+      <DependentUpon>Corps.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Corps.aspx.designer.cs">
+      <DependentUpon>Corps.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Cheveux.aspx.cs">
+      <DependentUpon>Cheveux.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cheveux.aspx.designer.cs">
+      <DependentUpon>Cheveux.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Dentaire.aspx.cs">
+      <DependentUpon>Dentaire.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Dentaire.aspx.designer.cs">
+      <DependentUpon>Dentaire.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Solaires.aspx.cs">
+      <DependentUpon>Solaires.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Solaires.aspx.designer.cs">
+      <DependentUpon>Solaires.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bébé.aspx.cs">
+      <DependentUpon>Bébé.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bébé.aspx.designer.cs">
+      <DependentUpon>Bébé.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vétérinaire.aspx.cs">
+      <DependentUpon>Vétérinaire.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vétérinaire.aspx.designer.cs">
+      <DependentUpon>Vétérinaire.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Naturel.aspx.cs">
+      <DependentUpon>Naturel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Naturel.aspx.designer.cs">
+      <DependentUpon>Naturel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Panier.aspx.cs">
+      <DependentUpon>Panier.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Panier.aspx.designer.cs">
+      <DependentUpon>Panier.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Produits.aspx.cs">
+      <DependentUpon>Produits.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Produits.aspx.designer.cs">
+      <DependentUpon>Produits.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Utilisateur.aspx.cs">
+      <DependentUpon>Utilisateur.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Utilisateur.aspx.designer.cs">
+      <DependentUpon>Utilisateur.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Commandes.aspx.cs">
+      <DependentUpon>Commandes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Commandes.aspx.designer.cs">
+      <DependentUpon>Commandes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NouveauProduit.aspx.cs">
+      <DependentUpon>NouveauProduit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NouveauProduit.aspx.designer.cs">
+      <DependentUpon>NouveauProduit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NouveauUtilisateur.aspx.cs">
+      <DependentUpon>NouveauUtilisateur.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NouveauUtilisateur.aspx.designer.cs">
+      <DependentUpon>NouveauUtilisateur.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>52242</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:52242/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.2.4.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.2.4.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

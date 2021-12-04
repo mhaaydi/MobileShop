@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPageAdmin.master.cs" Inherits="ParaShop.MasterPageAdmin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+     <link rel="stylesheet" href="Bootstrap/css/bootstrap.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form2" runat="server">
+        <table style="width:1100px; margin:0 auto;">
+            <tr style="width:1100px; height:50px;">
+                <td style="width:60px;">
+                    &nbsp;<asp:ImageButton ID="ImageButton6" runat="server" Height="68px" ImageUrl="~/Images/parashop2.png" OnClick="ImageButton6_Click" Width="103px" />
+                </td>
+                <td style="width:120px; font-size:32px; font-family:Arial; font-weight:bold; color:forestgreen;">ParaShop</td>
+                <td style="width:900px; text-align:right;">
+                    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+            </tr>
+            <tr style="width:1100px; height:40px; background-color:skyblue">
+                <td colspan="3">
+                    <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+                        <Items>
+                            <asp:MenuItem Text="Produits" Value="Visage" NavigateUrl="~/Produits.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Utilisateurs" Value="Corps" NavigateUrl="~/Utilisateur.aspx"></asp:MenuItem>
+                        </Items>
+                        <StaticHoverStyle BackColor="#00CC00" BorderColor="#CCCCCC" ForeColor="White" />
+                        <StaticMenuItemStyle Font-Size="Larger" ForeColor="Black" HorizontalPadding="30px" />
+                        <StaticMenuStyle HorizontalPadding="20px" VerticalPadding="5px" />
+                    </asp:Menu>
+                </td>
+            </tr>
+            <tr style="width:1100px;">
+                <td colspan="3">
+                    &nbsp;</td>
+            </tr>
+            </table>
+          <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+</body>
+</html>

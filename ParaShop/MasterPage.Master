@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="ParaShop.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" href="Bootstrap/css/bootstrap.css" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    </head>
+<body>
+    <form id="form1" runat="server">
+        <table style="width:1100px; margin:0 auto;">
+            <tr style="width:1100px; height:50px;">
+                <td style="width:60px;">
+                    &nbsp;<asp:ImageButton ID="ImageButton6" runat="server" Height="100px" ImageUrl="~/Images/parashop2.png" OnClick="ImageButton6_Click" Width="120px" />
+                </td>
+                <td style="width:120px; font-size:32px; font-family:Arial; font-weight:bold; color:forestgreen;"></td>
+                <td style="width:900px; text-align:right;">
+                     <asp:Panel ID="Panel1" runat="server">
+                    &nbsp;<asp:TextBox style="text-align:right;border:#505050;" type="text"   enalbled="false" ID="TextBox1" runat="server" BorderColor="White" ReadOnly="True" Font-Bold="True" Font-Italic="True" Font-Size="Larger"></asp:TextBox>
+                   <asp:ImageButton ID="ImageButton7" runat="server" ImageUrl="~/Images/logout2.png" Height="36px" Width="52px" OnClick="ImageButton7_Click" />
+                     </asp:Panel>
+                    <asp:ImageButton ID="ImageButton4"  runat="server" Height="42px" ImageUrl="~/Images/search.png" OnClick="ImageButton4_Click" Width="48px" />&nbsp&nbsp<asp:ImageButton ID="ImageButton1" runat="server" Height="43px" ImageUrl="~/Images/contact2.png" Width="52px" OnClick="ImageButton1_Click" />&nbsp&nbsp<asp:ImageButton ID="ImageButton2" runat="server" Height="44px" ImageUrl="~/Images/account3.png" Width="47px" OnClick="ImageButton2_Click" />&nbsp&nbsp<asp:ImageButton ID="ImageButton3" runat="server" Height="41px" ImageUrl="~/Images/panier.png" Width="57px" OnClick="ImageButton3_Click" />
+                </td>
+            </tr>
+            <tr style="width:1100px; height:40px; background-color:skyblue">
+                <td colspan="3">
+                    <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+                        <Items>
+                            <asp:MenuItem Text="Samsung" Value="Visage" NavigateUrl="~/Visage.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Apple" Value="Corps" NavigateUrl="~/Corps.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Huawei" Value="Cheveux" NavigateUrl="~/Cheveux.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Sony" Value="Dentaire" NavigateUrl="~/Dentaire.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Google" Value="Solaires" NavigateUrl="~/Solaires.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Xiaomi" Value="Bébé" NavigateUrl="~/Bébé.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="LG" Value="Vétérinaire" NavigateUrl="~/Vétérinaire.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Gadgets" Value="Naturel" NavigateUrl="~/Naturel.aspx"></asp:MenuItem>
+                        </Items>
+                        <StaticHoverStyle BackColor="#00CC00" BorderColor="#CCCCCC" ForeColor="White" />
+                        <StaticMenuItemStyle Font-Size="Larger" ForeColor="Black" HorizontalPadding="30px" />
+                        <StaticMenuStyle HorizontalPadding="20px" VerticalPadding="5px" />
+                    </asp:Menu>
+                    
+                </td>
+            </tr>
+            <tr style="width:1100px;">
+                <td colspan="3">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            </table>
+            
+    </form>
+
+</body>
+</html>
